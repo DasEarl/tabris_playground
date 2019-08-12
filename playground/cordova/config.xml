@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="de.wizzard_app" version="0.1.0">
+  <name>Playground</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="Hasan.Celik1501@gmail.com">
+    Hasan Celik
+  </author>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+</widget>
